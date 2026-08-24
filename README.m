@@ -21,4 +21,6 @@ cd AMF1
 chmod +x AMF1.py
 
 
-python AMF1.py
+python AMF1.py 
+–8
+
